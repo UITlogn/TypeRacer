@@ -1,7 +1,0 @@
-E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\dist\TypeRacer.Player.Single\D3DCompiler_47_cor3.dll
-E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\dist\TypeRacer.Player.Single\PenImc_cor3.dll
-E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\dist\TypeRacer.Player.Single\PresentationNative_cor3.dll
-E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\dist\TypeRacer.Player.Single\vcruntime140_cor3.dll
-E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\dist\TypeRacer.Player.Single\wpfgfx_cor3.dll
-E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\dist\TypeRacer.Player.Single\TypeRacer.Shared.pdb
-E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\dist\TypeRacer.Player.Single\TypeRacer.Client.exe
