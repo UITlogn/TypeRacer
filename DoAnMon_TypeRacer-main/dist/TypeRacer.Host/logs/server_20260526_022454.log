@@ -1,0 +1,330 @@
+[2026-05-26 02:24:54.362] [INFO] === TypeRacer Server Starting ===
+[2026-05-26 02:24:54.366] [INFO] Data provider: InMemory (local demo host)
+[2026-05-26 02:24:54.381] [INFO] AI Coach: enabled=True, provider=openclaude, model=gpt-5.5, key=missing
+[2026-05-26 02:24:54.383] [INFO] Server listening on port 5000
+[2026-05-26 02:24:54.383] [INFO] Press Ctrl+C to stop
+[2026-05-26 02:24:54.385] [INFO] Community Quick Play room ready: QUICK
+[2026-05-26 02:24:54.385] [INFO] Heartbeat monitor started
+[2026-05-26 02:24:54.391] [INFO] TypeRacer Server started on port 5000
+[2026-05-26 02:25:13.660] [INFO] Client connected: 127.0.0.1:19516
+[2026-05-26 02:25:13.660] [INFO] Client connected: 127.0.0.1:19515
+[2026-05-26 02:25:13.679] [INFO] Đăng ký: smoke_1779737113_395
+[2026-05-26 02:25:13.679] [INFO] Đăng ký: quick_1779737113_883
+[2026-05-26 02:25:13.704] [INFO] Đăng ký thành công: quick_1779737113_883
+[2026-05-26 02:25:13.704] [INFO] Đăng ký thành công: smoke_1779737113_395
+[2026-05-26 02:25:13.715] [INFO] Đăng nhập: quick_1779737113_883
+[2026-05-26 02:25:13.716] [INFO] Đăng nhập: smoke_1779737113_395
+[2026-05-26 02:25:13.731] [INFO] Đăng nhập thành công: quick_1779737113_883 (ID: 1)
+[2026-05-26 02:25:13.732] [INFO] Đăng nhập thành công: smoke_1779737113_395 (ID: 2)
+[2026-05-26 02:25:13.743] [INFO] Tạo phòng: Y32JPR bởi smoke_1779737113_395
+[2026-05-26 02:25:13.751] [INFO] Client disconnected (stream closed): 127.0.0.1:19516
+[2026-05-26 02:25:13.752] [INFO] quick_1779737113_883 vào phòng QUICK
+[2026-05-26 02:25:13.757] [INFO] Client disconnected (stream closed): 127.0.0.1:19515
+[2026-05-26 02:25:13.778] [INFO] Client connected: 192.168.1.5:19519
+[2026-05-26 02:25:13.778] [INFO] Đăng ký: quick_1779737113_147
+[2026-05-26 02:25:13.792] [INFO] Đăng ký thành công: quick_1779737113_147
+[2026-05-26 02:25:13.792] [INFO] Đăng nhập: quick_1779737113_147
+[2026-05-26 02:25:13.806] [INFO] Đăng nhập thành công: quick_1779737113_147 (ID: 3)
+[2026-05-26 02:25:13.806] [INFO] Client disconnected (stream closed): 192.168.1.5:19519
+[2026-05-26 02:25:20.544] [INFO] Client connected: 192.168.1.5:19605
+[2026-05-26 02:25:20.544] [INFO] Đăng ký: quick_1779737120_465
+[2026-05-26 02:25:20.556] [INFO] Đăng ký thành công: quick_1779737120_465
+[2026-05-26 02:25:20.557] [INFO] Đăng nhập: quick_1779737120_465
+[2026-05-26 02:25:20.570] [INFO] Đăng nhập thành công: quick_1779737120_465 (ID: 4)
+[2026-05-26 02:25:20.570] [INFO] quick_1779737120_465 vào phòng QUICK
+[2026-05-26 02:25:20.570] [INFO] Client disconnected (stream closed): 192.168.1.5:19605
+[2026-05-26 02:25:46.738] [INFO] Client connected: 127.0.0.1:19900
+[2026-05-26 02:25:46.739] [INFO] Đăng ký: classic_mode_1779737146_506
+[2026-05-26 02:25:46.751] [INFO] Đăng ký thành công: classic_mode_1779737146_506
+[2026-05-26 02:25:46.752] [INFO] Đăng nhập: classic_mode_1779737146_506
+[2026-05-26 02:25:46.764] [INFO] Đăng nhập thành công: classic_mode_1779737146_506 (ID: 5)
+[2026-05-26 02:25:46.766] [INFO] Tạo phòng: Z3EZ4C bởi classic_mode_1779737146_506
+[2026-05-26 02:25:46.772] [INFO] Race countdown started in room Z3EZ4C
+[2026-05-26 02:25:49.814] [INFO] Race started in room Z3EZ4C
+[2026-05-26 02:25:49.821] [INFO] Player classic_mode_1779737146_506 finished race in room Z3EZ4C - WPM: 169500.0 | completed=True | mode=classic | dq=False
+[2026-05-26 02:25:49.823] [INFO] Race finished in room Z3EZ4C
+[2026-05-26 02:25:49.830] [INFO] Race results saved to DB for room Z3EZ4C, raceId=1
+[2026-05-26 02:25:49.837] [INFO] Client connected: 127.0.0.1:19936
+[2026-05-26 02:25:49.837] [INFO] Đăng ký: accuracy_mode_1779737149_801
+[2026-05-26 02:25:49.837] [INFO] classic_mode_1779737146_506 rời phòng Z3EZ4C
+[2026-05-26 02:25:49.837] [INFO] Phòng Z3EZ4C đã bị xóa (trống)
+[2026-05-26 02:25:49.838] [INFO] Client disconnected (stream closed): 127.0.0.1:19900
+[2026-05-26 02:25:49.850] [INFO] Đăng ký thành công: accuracy_mode_1779737149_801
+[2026-05-26 02:25:49.850] [INFO] Đăng nhập: accuracy_mode_1779737149_801
+[2026-05-26 02:25:49.862] [INFO] Đăng nhập thành công: accuracy_mode_1779737149_801 (ID: 6)
+[2026-05-26 02:25:49.862] [INFO] Tạo phòng: E2ANDA bởi accuracy_mode_1779737149_801
+[2026-05-26 02:25:49.862] [INFO] Race countdown started in room E2ANDA
+[2026-05-26 02:25:52.902] [INFO] Race started in room E2ANDA
+[2026-05-26 02:25:52.903] [INFO] Player accuracy_mode_1779737149_801 finished race in room E2ANDA - WPM: 1248000.0 | completed=True | mode=accuracy | dq=False
+[2026-05-26 02:25:52.904] [INFO] Race finished in room E2ANDA
+[2026-05-26 02:25:52.905] [INFO] Race results saved to DB for room E2ANDA, raceId=2
+[2026-05-26 02:25:52.905] [INFO] accuracy_mode_1779737149_801 rời phòng E2ANDA
+[2026-05-26 02:25:52.905] [INFO] Phòng E2ANDA đã bị xóa (trống)
+[2026-05-26 02:25:52.906] [INFO] Client disconnected (stream closed): 127.0.0.1:19936
+[2026-05-26 02:25:52.906] [INFO] Client connected: 127.0.0.1:19975
+[2026-05-26 02:25:52.918] [INFO] Đăng ký: no_backspace_mode_1779737152_968
+[2026-05-26 02:25:52.931] [INFO] Đăng ký thành công: no_backspace_mode_1779737152_968
+[2026-05-26 02:25:52.932] [INFO] Đăng nhập: no_backspace_mode_1779737152_968
+[2026-05-26 02:25:52.944] [INFO] Đăng nhập thành công: no_backspace_mode_1779737152_968 (ID: 7)
+[2026-05-26 02:25:52.944] [INFO] Tạo phòng: XDJAX7 bởi no_backspace_mode_1779737152_968
+[2026-05-26 02:25:52.945] [INFO] Race countdown started in room XDJAX7
+[2026-05-26 02:25:55.989] [INFO] Race started in room XDJAX7
+[2026-05-26 02:25:55.990] [INFO] Player no_backspace_mode_1779737152_968 finished race in room XDJAX7 - WPM: 1356000.0 | completed=False | mode=no_backspace | dq=True
+[2026-05-26 02:25:55.990] [INFO] Race finished in room XDJAX7
+[2026-05-26 02:25:55.991] [INFO] Race results saved to DB for room XDJAX7, raceId=3
+[2026-05-26 02:25:55.992] [INFO] no_backspace_mode_1779737152_968 rời phòng XDJAX7
+[2026-05-26 02:25:55.992] [INFO] Phòng XDJAX7 đã bị xóa (trống)
+[2026-05-26 02:25:55.992] [INFO] Client disconnected (stream closed): 127.0.0.1:19975
+[2026-05-26 02:25:55.992] [INFO] Client connected: 127.0.0.1:20010
+[2026-05-26 02:25:55.993] [INFO] Đăng ký: sudden_death_mode_1779737155_266
+[2026-05-26 02:25:56.007] [INFO] Đăng ký thành công: sudden_death_mode_1779737155_266
+[2026-05-26 02:25:56.008] [INFO] Đăng nhập: sudden_death_mode_1779737155_266
+[2026-05-26 02:25:56.020] [INFO] Đăng nhập thành công: sudden_death_mode_1779737155_266 (ID: 8)
+[2026-05-26 02:25:56.021] [INFO] Tạo phòng: JV84WX bởi sudden_death_mode_1779737155_266
+[2026-05-26 02:25:56.021] [INFO] Race countdown started in room JV84WX
+[2026-05-26 02:25:59.062] [INFO] Race started in room JV84WX
+[2026-05-26 02:25:59.066] [INFO] Player sudden_death_mode_1779737155_266 finished race in room JV84WX - WPM: 297000.0 | completed=False | mode=sudden_death | dq=True
+[2026-05-26 02:25:59.066] [INFO] Race finished in room JV84WX
+[2026-05-26 02:25:59.071] [INFO] Race results saved to DB for room JV84WX, raceId=4
+[2026-05-26 02:25:59.071] [INFO] sudden_death_mode_1779737155_266 rời phòng JV84WX
+[2026-05-26 02:25:59.071] [INFO] Phòng JV84WX đã bị xóa (trống)
+[2026-05-26 02:25:59.072] [INFO] Client disconnected (stream closed): 127.0.0.1:20010
+[2026-05-26 02:25:59.072] [INFO] Client connected: 127.0.0.1:20047
+[2026-05-26 02:25:59.092] [INFO] Đăng ký: ai_practice_easy_mode_1779737159_177
+[2026-05-26 02:25:59.106] [INFO] Đăng ký thành công: ai_practice_easy_mode_1779737159_177
+[2026-05-26 02:25:59.106] [INFO] Đăng nhập: ai_practice_easy_mode_1779737159_177
+[2026-05-26 02:25:59.119] [INFO] Đăng nhập thành công: ai_practice_easy_mode_1779737159_177 (ID: 9)
+[2026-05-26 02:25:59.120] [INFO] Tạo phòng: QGH5CD bởi ai_practice_easy_mode_1779737159_177
+[2026-05-26 02:25:59.120] [INFO] Race countdown started in room QGH5CD
+[2026-05-26 02:26:02.136] [INFO] Race started in room QGH5CD
+[2026-05-26 02:26:02.140] [INFO] Player ai_practice_easy_mode_1779737159_177 finished race in room QGH5CD - WPM: 339000.0 | completed=True | mode=ai_practice | dq=False
+[2026-05-26 02:26:02.142] [INFO] Race finished in room QGH5CD
+[2026-05-26 02:26:02.144] [INFO] Race results saved to DB for room QGH5CD, raceId=5
+[2026-05-26 02:26:02.145] [INFO] ai_practice_easy_mode_1779737159_177 rời phòng QGH5CD
+[2026-05-26 02:26:02.145] [INFO] Phòng QGH5CD đã bị xóa (trống)
+[2026-05-26 02:26:02.145] [INFO] Client disconnected (stream closed): 127.0.0.1:20047
+[2026-05-26 02:26:02.145] [INFO] Client connected: 127.0.0.1:20083
+[2026-05-26 02:26:02.145] [INFO] Đăng ký: ai_practice_medium_mode_1779737162_646
+[2026-05-26 02:26:02.159] [INFO] Đăng ký thành công: ai_practice_medium_mode_1779737162_646
+[2026-05-26 02:26:02.159] [INFO] Đăng nhập: ai_practice_medium_mode_1779737162_646
+[2026-05-26 02:26:02.171] [INFO] Đăng nhập thành công: ai_practice_medium_mode_1779737162_646 (ID: 10)
+[2026-05-26 02:26:02.172] [INFO] Tạo phòng: DKCF83 bởi ai_practice_medium_mode_1779737162_646
+[2026-05-26 02:26:02.172] [INFO] Race countdown started in room DKCF83
+[2026-05-26 02:26:05.198] [INFO] Race started in room DKCF83
+[2026-05-26 02:26:05.198] [INFO] Player ai_practice_medium_mode_1779737162_646 finished race in room DKCF83 - WPM: 0.0 | completed=True | mode=ai_practice | dq=False
+[2026-05-26 02:26:05.198] [INFO] Race finished in room DKCF83
+[2026-05-26 02:26:05.199] [INFO] Race results saved to DB for room DKCF83, raceId=6
+[2026-05-26 02:26:05.199] [INFO] ai_practice_medium_mode_1779737162_646 rời phòng DKCF83
+[2026-05-26 02:26:05.199] [INFO] Phòng DKCF83 đã bị xóa (trống)
+[2026-05-26 02:26:05.200] [INFO] Client disconnected (stream closed): 127.0.0.1:20083
+[2026-05-26 02:26:05.200] [INFO] Client connected: 127.0.0.1:62245
+[2026-05-26 02:26:05.200] [INFO] Đăng ký: ai_practice_hard_mode_1779737165_171
+[2026-05-26 02:26:05.213] [INFO] Đăng ký thành công: ai_practice_hard_mode_1779737165_171
+[2026-05-26 02:26:05.213] [INFO] Đăng nhập: ai_practice_hard_mode_1779737165_171
+[2026-05-26 02:26:05.226] [INFO] Đăng nhập thành công: ai_practice_hard_mode_1779737165_171 (ID: 11)
+[2026-05-26 02:26:05.227] [INFO] Tạo phòng: QXASA7 bởi ai_practice_hard_mode_1779737165_171
+[2026-05-26 02:26:05.227] [INFO] Race countdown started in room QXASA7
+[2026-05-26 02:26:08.256] [INFO] Race started in room QXASA7
+[2026-05-26 02:26:08.257] [INFO] Player ai_practice_hard_mode_1779737165_171 finished race in room QXASA7 - WPM: 0.0 | completed=True | mode=ai_practice | dq=False
+[2026-05-26 02:26:08.258] [INFO] Race finished in room QXASA7
+[2026-05-26 02:26:08.259] [INFO] Race results saved to DB for room QXASA7, raceId=7
+[2026-05-26 02:26:08.259] [INFO] ai_practice_hard_mode_1779737165_171 rời phòng QXASA7
+[2026-05-26 02:26:08.259] [INFO] Phòng QXASA7 đã bị xóa (trống)
+[2026-05-26 02:26:08.260] [INFO] Client disconnected (stream closed): 127.0.0.1:62245
+[2026-05-26 02:26:08.261] [INFO] Client connected: 127.0.0.1:62280
+[2026-05-26 02:26:08.271] [INFO] Đăng ký: ai_practice_nightmare_mode_1779737168_747
+[2026-05-26 02:26:08.285] [INFO] Đăng ký thành công: ai_practice_nightmare_mode_1779737168_747
+[2026-05-26 02:26:08.285] [INFO] Đăng nhập: ai_practice_nightmare_mode_1779737168_747
+[2026-05-26 02:26:08.298] [INFO] Đăng nhập thành công: ai_practice_nightmare_mode_1779737168_747 (ID: 12)
+[2026-05-26 02:26:08.299] [INFO] Tạo phòng: BQNZRD bởi ai_practice_nightmare_mode_1779737168_747
+[2026-05-26 02:26:08.299] [INFO] Race countdown started in room BQNZRD
+[2026-05-26 02:26:11.323] [INFO] Race started in room BQNZRD
+[2026-05-26 02:26:11.324] [INFO] Player ai_practice_nightmare_mode_1779737168_747 finished race in room BQNZRD - WPM: 1356000.0 | completed=True | mode=ai_practice | dq=False
+[2026-05-26 02:26:11.324] [INFO] Race finished in room BQNZRD
+[2026-05-26 02:26:11.325] [INFO] Race results saved to DB for room BQNZRD, raceId=8
+[2026-05-26 02:26:11.326] [INFO] ai_practice_nightmare_mode_1779737168_747 rời phòng BQNZRD
+[2026-05-26 02:26:11.326] [INFO] Phòng BQNZRD đã bị xóa (trống)
+[2026-05-26 02:26:11.326] [INFO] Client disconnected (stream closed): 127.0.0.1:62280
+[2026-05-26 02:26:33.182] [INFO] Client connected: 127.0.0.1:62562
+[2026-05-26 02:26:33.182] [INFO] Đăng ký: mid_1779737193_343a
+[2026-05-26 02:26:33.196] [INFO] Đăng ký thành công: mid_1779737193_343a
+[2026-05-26 02:26:33.196] [INFO] Đăng nhập: mid_1779737193_343a
+[2026-05-26 02:26:33.208] [INFO] Đăng nhập thành công: mid_1779737193_343a (ID: 13)
+[2026-05-26 02:26:33.208] [INFO] mid_1779737193_343a vào phòng QUICK
+[2026-05-26 02:26:33.209] [INFO] Race countdown started in room QUICK
+[2026-05-26 02:26:36.241] [INFO] Race started in room QUICK
+[2026-05-26 02:26:37.442] [INFO] Client connected: 127.0.0.1:62610
+[2026-05-26 02:26:37.442] [INFO] Đăng ký: mid_1779737193_343b
+[2026-05-26 02:26:37.456] [INFO] Đăng ký thành công: mid_1779737193_343b
+[2026-05-26 02:26:37.456] [INFO] Đăng nhập: mid_1779737193_343b
+[2026-05-26 02:26:37.469] [INFO] Đăng nhập thành công: mid_1779737193_343b (ID: 14)
+[2026-05-26 02:26:37.470] [INFO] mid_1779737193_343b vào phòng QUICK
+[2026-05-26 02:26:37.470] [INFO] Client disconnected (stream closed): 127.0.0.1:62610
+[2026-05-26 02:26:37.471] [INFO] Client connection lost: 127.0.0.1:62562
+[2026-05-26 02:26:37.473] [INFO] Race finished in room QUICK
+[2026-05-26 02:26:37.473] [INFO] Race results saved to DB for room QUICK, raceId=9
+[2026-05-26 02:26:46.893] [INFO] Client connected: 127.0.0.1:62719
+[2026-05-26 02:26:46.893] [INFO] Đăng ký: quick_1779737206_733
+[2026-05-26 02:26:46.905] [INFO] Đăng ký thành công: quick_1779737206_733
+[2026-05-26 02:26:46.905] [INFO] Đăng nhập: quick_1779737206_733
+[2026-05-26 02:26:46.918] [INFO] Đăng nhập thành công: quick_1779737206_733 (ID: 15)
+[2026-05-26 02:26:46.919] [INFO] quick_1779737206_733 vào phòng QUICK
+[2026-05-26 02:26:46.919] [INFO] Client disconnected (stream closed): 127.0.0.1:62719
+[2026-05-26 02:27:28.330] [INFO] Client connected: 127.0.0.1:63188
+[2026-05-26 02:27:28.330] [INFO] Đăng ký: auto_1779737248_510
+[2026-05-26 02:27:28.343] [INFO] Đăng ký thành công: auto_1779737248_510
+[2026-05-26 02:27:28.343] [INFO] Đăng nhập: auto_1779737248_510
+[2026-05-26 02:27:28.357] [INFO] Đăng nhập thành công: auto_1779737248_510 (ID: 16)
+[2026-05-26 02:27:28.357] [INFO] auto_1779737248_510 vào phòng QUICK
+[2026-05-26 02:29:04.623] [WARN] Client auto_1779737248_510 heartbeat timeout, disconnecting
+[2026-05-26 02:29:04.626] [INFO] Client connection lost: 127.0.0.1:63188
+[2026-05-26 02:29:23.452] [INFO] Client connected: 127.0.0.1:64481
+[2026-05-26 02:29:23.452] [INFO] Đăng ký: auto_1779737363_919
+[2026-05-26 02:29:23.465] [INFO] Đăng ký thành công: auto_1779737363_919
+[2026-05-26 02:29:23.466] [INFO] Đăng nhập: auto_1779737363_919
+[2026-05-26 02:29:23.478] [INFO] Đăng nhập thành công: auto_1779737363_919 (ID: 17)
+[2026-05-26 02:29:23.479] [INFO] auto_1779737363_919 vào phòng QUICK
+[2026-05-26 02:30:54.688] [WARN] Client auto_1779737363_919 heartbeat timeout, disconnecting
+[2026-05-26 02:30:54.691] [INFO] Client connection lost: 127.0.0.1:64481
+[2026-05-26 02:33:33.994] [INFO] Client connected: 127.0.0.1:43435
+[2026-05-26 02:33:33.994] [INFO] Đăng ký: autoquick_1779737613_372
+[2026-05-26 02:33:34.007] [INFO] Đăng ký thành công: autoquick_1779737613_372
+[2026-05-26 02:33:34.007] [INFO] Đăng nhập: autoquick_1779737613_372
+[2026-05-26 02:33:34.020] [INFO] Đăng nhập thành công: autoquick_1779737613_372 (ID: 18)
+[2026-05-26 02:33:34.020] [INFO] autoquick_1779737613_372 vào phòng QUICK
+[2026-05-26 02:33:56.070] [INFO] Race countdown started in room QUICK
+[2026-05-26 02:33:59.112] [INFO] Race started in room QUICK
+[2026-05-26 02:33:59.112] [INFO] Client disconnected (stream closed): 127.0.0.1:43435
+[2026-05-26 02:33:59.114] [INFO] Community Quick Play auto-started with 0 player(s)
+[2026-05-26 02:35:03.800] [INFO] Client connected: 127.0.0.1:5254
+[2026-05-26 02:35:03.800] [INFO] Đăng ký: smoke_1779737703_391
+[2026-05-26 02:35:03.814] [INFO] Đăng ký thành công: smoke_1779737703_391
+[2026-05-26 02:35:03.814] [INFO] Client connected: 127.0.0.1:5255
+[2026-05-26 02:35:03.814] [INFO] Đăng nhập: smoke_1779737703_391
+[2026-05-26 02:35:03.814] [INFO] Đăng ký: classic_mode_1779737703_770
+[2026-05-26 02:35:03.827] [INFO] Client connected: 192.168.1.5:5256
+[2026-05-26 02:35:03.827] [INFO] Đăng ký: quick_1779737703_789
+[2026-05-26 02:35:03.830] [INFO] Đăng nhập thành công: smoke_1779737703_391 (ID: 19)
+[2026-05-26 02:35:03.831] [INFO] Tạo phòng: 2QUHNL bởi smoke_1779737703_391
+[2026-05-26 02:35:03.831] [INFO] Đăng ký thành công: classic_mode_1779737703_770
+[2026-05-26 02:35:03.831] [INFO] Đăng nhập: classic_mode_1779737703_770
+[2026-05-26 02:35:03.831] [INFO] Client disconnected (stream closed): 127.0.0.1:5254
+[2026-05-26 02:35:03.834] [INFO] Client connected: 127.0.0.1:5257
+[2026-05-26 02:35:03.834] [INFO] Đăng ký: quick_1779737703_810
+[2026-05-26 02:35:03.842] [INFO] Đăng ký thành công: quick_1779737703_789
+[2026-05-26 02:35:03.842] [INFO] Đăng nhập: quick_1779737703_789
+[2026-05-26 02:35:03.846] [INFO] Đăng nhập thành công: classic_mode_1779737703_770 (ID: 20)
+[2026-05-26 02:35:03.847] [INFO] Tạo phòng: DR6ZCD bởi classic_mode_1779737703_770
+[2026-05-26 02:35:03.847] [INFO] Race countdown started in room DR6ZCD
+[2026-05-26 02:35:03.848] [INFO] Đăng ký thành công: quick_1779737703_810
+[2026-05-26 02:35:03.848] [INFO] Đăng nhập: quick_1779737703_810
+[2026-05-26 02:35:03.856] [INFO] Đăng nhập thành công: quick_1779737703_789 (ID: 21)
+[2026-05-26 02:35:03.857] [INFO] quick_1779737703_789 vào phòng QUICK
+[2026-05-26 02:35:03.857] [INFO] Client disconnected (stream closed): 192.168.1.5:5256
+[2026-05-26 02:35:03.862] [INFO] Đăng nhập thành công: quick_1779737703_810 (ID: 22)
+[2026-05-26 02:35:03.862] [INFO] Client disconnected (stream closed): 127.0.0.1:5257
+[2026-05-26 02:35:06.873] [INFO] Race started in room DR6ZCD
+[2026-05-26 02:35:06.875] [INFO] Player classic_mode_1779737703_770 finished race in room DR6ZCD - WPM: 1356000.0 | completed=True | mode=classic | dq=False
+[2026-05-26 02:35:06.876] [INFO] Race finished in room DR6ZCD
+[2026-05-26 02:35:06.877] [INFO] Race results saved to DB for room DR6ZCD, raceId=11
+[2026-05-26 02:35:06.878] [INFO] classic_mode_1779737703_770 rời phòng DR6ZCD
+[2026-05-26 02:35:06.878] [INFO] Phòng DR6ZCD đã bị xóa (trống)
+[2026-05-26 02:35:06.878] [INFO] Client disconnected (stream closed): 127.0.0.1:5255
+[2026-05-26 02:35:06.879] [INFO] Client connected: 127.0.0.1:5296
+[2026-05-26 02:35:06.879] [INFO] Đăng ký: accuracy_mode_1779737706_697
+[2026-05-26 02:35:06.893] [INFO] Đăng ký thành công: accuracy_mode_1779737706_697
+[2026-05-26 02:35:06.893] [INFO] Đăng nhập: accuracy_mode_1779737706_697
+[2026-05-26 02:35:06.906] [INFO] Đăng nhập thành công: accuracy_mode_1779737706_697 (ID: 23)
+[2026-05-26 02:35:06.906] [INFO] Tạo phòng: LY6M4S bởi accuracy_mode_1779737706_697
+[2026-05-26 02:35:06.906] [INFO] Race countdown started in room LY6M4S
+[2026-05-26 02:35:09.928] [INFO] Race started in room LY6M4S
+[2026-05-26 02:35:09.929] [INFO] Player accuracy_mode_1779737706_697 finished race in room LY6M4S - WPM: 1356000.0 | completed=True | mode=accuracy | dq=False
+[2026-05-26 02:35:09.930] [INFO] Race finished in room LY6M4S
+[2026-05-26 02:35:09.931] [INFO] Race results saved to DB for room LY6M4S, raceId=12
+[2026-05-26 02:35:09.932] [INFO] accuracy_mode_1779737706_697 rời phòng LY6M4S
+[2026-05-26 02:35:09.933] [INFO] Phòng LY6M4S đã bị xóa (trống)
+[2026-05-26 02:35:09.933] [INFO] Client connected: 127.0.0.1:5332
+[2026-05-26 02:35:09.933] [INFO] Client disconnected (stream closed): 127.0.0.1:5296
+[2026-05-26 02:35:09.934] [INFO] Đăng ký: no_backspace_mode_1779737709_406
+[2026-05-26 02:35:09.951] [INFO] Đăng ký thành công: no_backspace_mode_1779737709_406
+[2026-05-26 02:35:09.951] [INFO] Đăng nhập: no_backspace_mode_1779737709_406
+[2026-05-26 02:35:09.964] [INFO] Đăng nhập thành công: no_backspace_mode_1779737709_406 (ID: 24)
+[2026-05-26 02:35:09.964] [INFO] Tạo phòng: C4U5JF bởi no_backspace_mode_1779737709_406
+[2026-05-26 02:35:09.964] [INFO] Race countdown started in room C4U5JF
+[2026-05-26 02:35:12.989] [INFO] Race started in room C4U5JF
+[2026-05-26 02:35:12.990] [INFO] Player no_backspace_mode_1779737709_406 finished race in room C4U5JF - WPM: 0.0 | completed=False | mode=no_backspace | dq=True
+[2026-05-26 02:35:12.990] [INFO] Race finished in room C4U5JF
+[2026-05-26 02:35:12.990] [INFO] Race results saved to DB for room C4U5JF, raceId=13
+[2026-05-26 02:35:12.991] [INFO] no_backspace_mode_1779737709_406 rời phòng C4U5JF
+[2026-05-26 02:35:12.991] [INFO] Phòng C4U5JF đã bị xóa (trống)
+[2026-05-26 02:35:12.991] [INFO] Client disconnected (stream closed): 127.0.0.1:5332
+[2026-05-26 02:35:12.991] [INFO] Client connected: 127.0.0.1:5367
+[2026-05-26 02:35:13.005] [INFO] Đăng ký: sudden_death_mode_1779737712_958
+[2026-05-26 02:35:13.017] [INFO] Đăng ký thành công: sudden_death_mode_1779737712_958
+[2026-05-26 02:35:13.018] [INFO] Đăng nhập: sudden_death_mode_1779737712_958
+[2026-05-26 02:35:13.030] [INFO] Đăng nhập thành công: sudden_death_mode_1779737712_958 (ID: 25)
+[2026-05-26 02:35:13.030] [INFO] Tạo phòng: BYUW7Z bởi sudden_death_mode_1779737712_958
+[2026-05-26 02:35:13.030] [INFO] Race countdown started in room BYUW7Z
+[2026-05-26 02:35:16.062] [INFO] Race started in room BYUW7Z
+[2026-05-26 02:35:16.064] [INFO] Player sudden_death_mode_1779737712_958 finished race in room BYUW7Z - WPM: 1344000.0 | completed=False | mode=sudden_death | dq=True
+[2026-05-26 02:35:16.065] [INFO] Race finished in room BYUW7Z
+[2026-05-26 02:35:16.067] [INFO] Race results saved to DB for room BYUW7Z, raceId=14
+[2026-05-26 02:35:16.067] [INFO] sudden_death_mode_1779737712_958 rời phòng BYUW7Z
+[2026-05-26 02:35:16.067] [INFO] Phòng BYUW7Z đã bị xóa (trống)
+[2026-05-26 02:35:16.067] [INFO] Client disconnected (stream closed): 127.0.0.1:5367
+[2026-05-26 02:35:16.068] [INFO] Client connected: 127.0.0.1:5403
+[2026-05-26 02:35:16.078] [INFO] Đăng ký: ai_practice_easy_mode_1779737716_283
+[2026-05-26 02:35:16.091] [INFO] Đăng ký thành công: ai_practice_easy_mode_1779737716_283
+[2026-05-26 02:35:16.092] [INFO] Đăng nhập: ai_practice_easy_mode_1779737716_283
+[2026-05-26 02:35:16.104] [INFO] Đăng nhập thành công: ai_practice_easy_mode_1779737716_283 (ID: 26)
+[2026-05-26 02:35:16.105] [INFO] Tạo phòng: 5ED2UJ bởi ai_practice_easy_mode_1779737716_283
+[2026-05-26 02:35:16.105] [INFO] Race countdown started in room 5ED2UJ
+[2026-05-26 02:35:19.131] [INFO] Race started in room 5ED2UJ
+[2026-05-26 02:35:19.132] [INFO] Player ai_practice_easy_mode_1779737716_283 finished race in room 5ED2UJ - WPM: 1200000.0 | completed=True | mode=ai_practice | dq=False
+[2026-05-26 02:35:19.133] [INFO] Race finished in room 5ED2UJ
+[2026-05-26 02:35:19.134] [INFO] Race results saved to DB for room 5ED2UJ, raceId=15
+[2026-05-26 02:35:19.135] [INFO] ai_practice_easy_mode_1779737716_283 rời phòng 5ED2UJ
+[2026-05-26 02:35:19.135] [INFO] Phòng 5ED2UJ đã bị xóa (trống)
+[2026-05-26 02:35:19.136] [INFO] Client disconnected (stream closed): 127.0.0.1:5403
+[2026-05-26 02:35:19.136] [INFO] Client connected: 127.0.0.1:5440
+[2026-05-26 02:35:19.146] [INFO] Đăng ký: ai_practice_medium_mode_1779737719_271
+[2026-05-26 02:35:19.159] [INFO] Đăng ký thành công: ai_practice_medium_mode_1779737719_271
+[2026-05-26 02:35:19.159] [INFO] Đăng nhập: ai_practice_medium_mode_1779737719_271
+[2026-05-26 02:35:19.171] [INFO] Đăng nhập thành công: ai_practice_medium_mode_1779737719_271 (ID: 27)
+[2026-05-26 02:35:19.172] [INFO] Tạo phòng: 6LQ46E bởi ai_practice_medium_mode_1779737719_271
+[2026-05-26 02:35:19.172] [INFO] Race countdown started in room 6LQ46E
+[2026-05-26 02:35:22.196] [INFO] Race started in room 6LQ46E
+[2026-05-26 02:35:22.197] [INFO] Player ai_practice_medium_mode_1779737719_271 finished race in room 6LQ46E - WPM: 0.0 | completed=True | mode=ai_practice | dq=False
+[2026-05-26 02:35:22.197] [INFO] Race finished in room 6LQ46E
+[2026-05-26 02:35:22.197] [INFO] Race results saved to DB for room 6LQ46E, raceId=16
+[2026-05-26 02:35:22.198] [INFO] ai_practice_medium_mode_1779737719_271 rời phòng 6LQ46E
+[2026-05-26 02:35:22.198] [INFO] Phòng 6LQ46E đã bị xóa (trống)
+[2026-05-26 02:35:22.198] [INFO] Client disconnected (stream closed): 127.0.0.1:5440
+[2026-05-26 02:35:22.199] [INFO] Client connected: 127.0.0.1:5475
+[2026-05-26 02:35:22.211] [INFO] Đăng ký: ai_practice_hard_mode_1779737722_501
+[2026-05-26 02:35:22.223] [INFO] Đăng ký thành công: ai_practice_hard_mode_1779737722_501
+[2026-05-26 02:35:22.224] [INFO] Đăng nhập: ai_practice_hard_mode_1779737722_501
+[2026-05-26 02:35:22.236] [INFO] Đăng nhập thành công: ai_practice_hard_mode_1779737722_501 (ID: 28)
+[2026-05-26 02:35:22.236] [INFO] Tạo phòng: 6QYMC3 bởi ai_practice_hard_mode_1779737722_501
+[2026-05-26 02:35:22.236] [INFO] Race countdown started in room 6QYMC3
+[2026-05-26 02:35:25.267] [INFO] Race started in room 6QYMC3
+[2026-05-26 02:35:25.267] [INFO] Player ai_practice_hard_mode_1779737722_501 finished race in room 6QYMC3 - WPM: 0.0 | completed=True | mode=ai_practice | dq=False
+[2026-05-26 02:35:25.268] [INFO] Race finished in room 6QYMC3
+[2026-05-26 02:35:25.268] [INFO] Race results saved to DB for room 6QYMC3, raceId=17
+[2026-05-26 02:35:25.268] [INFO] ai_practice_hard_mode_1779737722_501 rời phòng 6QYMC3
+[2026-05-26 02:35:25.268] [INFO] Phòng 6QYMC3 đã bị xóa (trống)
+[2026-05-26 02:35:25.268] [INFO] Client disconnected (stream closed): 127.0.0.1:5475
+[2026-05-26 02:35:25.268] [INFO] Client connected: 127.0.0.1:5510
+[2026-05-26 02:35:25.269] [INFO] Đăng ký: ai_practice_nightmare_mode_1779737725_333
+[2026-05-26 02:35:25.281] [INFO] Đăng ký thành công: ai_practice_nightmare_mode_1779737725_333
+[2026-05-26 02:35:25.281] [INFO] Đăng nhập: ai_practice_nightmare_mode_1779737725_333
+[2026-05-26 02:35:25.293] [INFO] Đăng nhập thành công: ai_practice_nightmare_mode_1779737725_333 (ID: 29)
+[2026-05-26 02:35:25.293] [INFO] Tạo phòng: GNFM69 bởi ai_practice_nightmare_mode_1779737725_333
+[2026-05-26 02:35:25.293] [INFO] Race countdown started in room GNFM69
+[2026-05-26 02:35:28.325] [INFO] Race started in room GNFM69
+[2026-05-26 02:35:28.325] [INFO] Player ai_practice_nightmare_mode_1779737725_333 finished race in room GNFM69 - WPM: 0.0 | completed=True | mode=ai_practice | dq=False
+[2026-05-26 02:35:28.325] [INFO] Race finished in room GNFM69
+[2026-05-26 02:35:28.326] [INFO] Race results saved to DB for room GNFM69, raceId=18
+[2026-05-26 02:35:28.326] [INFO] ai_practice_nightmare_mode_1779737725_333 rời phòng GNFM69
+[2026-05-26 02:35:28.326] [INFO] Phòng GNFM69 đã bị xóa (trống)
+[2026-05-26 02:35:28.326] [INFO] Client disconnected (stream closed): 127.0.0.1:5510
