@@ -1,0 +1,9 @@
+E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\src\TypeRacer.Shared\bin\Release\net8.0\TypeRacer.Shared.deps.json
+E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\src\TypeRacer.Shared\bin\Release\net8.0\TypeRacer.Shared.dll
+E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\src\TypeRacer.Shared\obj\Release\net8.0\TypeRacer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\src\TypeRacer.Shared\obj\Release\net8.0\TypeRacer.Shared.AssemblyInfoInputs.cache
+E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\src\TypeRacer.Shared\obj\Release\net8.0\TypeRacer.Shared.AssemblyInfo.cs
+E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\src\TypeRacer.Shared\obj\Release\net8.0\TypeRacer.Shared.csproj.CoreCompileInputs.cache
+E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\src\TypeRacer.Shared\obj\Release\net8.0\TypeRacer.Shared.dll
+E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\src\TypeRacer.Shared\obj\Release\net8.0\refint\TypeRacer.Shared.dll
+E:\Downloads\doan_laptrinhmang\DoAnMon_TypeRacer-main\src\TypeRacer.Shared\obj\Release\net8.0\ref\TypeRacer.Shared.dll

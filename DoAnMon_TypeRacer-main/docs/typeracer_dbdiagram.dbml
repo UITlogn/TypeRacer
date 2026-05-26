@@ -1,0 +1,86 @@
+// ==============================================
+// TypeRacer - Database Schema (dbdiagram.io)
+// Môn: NT106 - Lập trình mạng (UIT)
+// Dán toàn bộ nội dung này vào https://dbdiagram.io
+// ==============================================
+
+Table users {
+  id int [pk, increment]
+  username nvarchar(50) [unique, not null]
+  email nvarchar(255) [unique, not null]
+  password_hash nvarchar(255) [not null, note: 'SHA256 + salt']
+  password_salt nvarchar(100) [not null]
+  display_name nvarchar(100) [not null]
+  avatar_url nvarchar(500) [null]
+  total_races int [default: 0]
+  total_wins int [default: 0]
+  avg_wpm decimal(6,2) [default: 0]
+  best_wpm decimal(6,2) [default: 0]
+  avg_accuracy decimal(5,2) [default: 0]
+  rank_points int [default: 1000, note: 'ELO ranking']
+  is_online bit [default: 0]
+  created_at datetime2 [default: `GETDATE()`]
+}
+
+Table rooms {
+  id int [pk, increment]
+  room_code nvarchar(10) [unique, not null, note: 'VD: ABC123']
+  host_id int [not null, ref: > users.id]
+  status nvarchar(20) [not null, note: 'waiting / countdown / racing / finished']
+  mode nvarchar(20) [not null, note: 'practice / multiplayer']
+  max_players tinyint [default: 5]
+  is_private bit [default: 0]
+  created_at datetime2 [default: `GETDATE()`]
+}
+
+Table room_players {
+  room_id int [not null, ref: > rooms.id]
+  user_id int [not null, ref: > users.id]
+  is_ready bit [default: 0]
+
+  indexes {
+    (room_id, user_id) [pk]
+  }
+}
+
+Table passages {
+  id int [pk, increment]
+  content nvarchar(max) [not null]
+  language nvarchar(5) [default: 'en', note: 'en / vi']
+  difficulty nvarchar(10) [not null, note: 'easy / medium / hard']
+  word_count int [not null]
+  source nvarchar(255) [null]
+}
+
+Table races {
+  id int [pk, increment]
+  room_id int [not null, ref: > rooms.id]
+  passage_id int [not null, ref: > passages.id]
+  started_at datetime2 [not null]
+  ended_at datetime2 [null]
+}
+
+Table race_results {
+  id int [pk, increment]
+  race_id int [not null, ref: > races.id]
+  user_id int [not null, ref: > users.id]
+  wpm decimal(6,2) [not null]
+  accuracy decimal(5,2) [not null]
+  position tinyint [not null, note: '1st, 2nd, 3rd...']
+  chars_correct int [not null]
+  chars_wrong int [not null]
+  time_taken_ms int [not null]
+  is_completed bit [default: 0]
+
+  indexes {
+    (race_id, user_id) [unique]
+  }
+}
+
+Table chat_messages {
+  id int [pk, increment]
+  room_id int [not null, ref: > rooms.id]
+  user_id int [not null, ref: > users.id]
+  content nvarchar(500) [not null]
+  sent_at datetime2 [default: `GETDATE()`]
+}
